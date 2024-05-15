@@ -1,0 +1,18 @@
+These are the stats for the game!
+Player name: apple
+Character name: Toffee_Todd
+Gold: 4
+Stamina: 78
+[Toxic Taffy] [Lucky Licorice] [Treasure Hunter's Truffle] 
+[Empty] [Empty] [Empty] 
+[Empty] [Empty] [Empty] 
+---------------------------------------------------
+These are the stats for the game!
+Player name: 
+Character name: JellyBean_Jane
+Gold: 50
+Stamina: 71
+[Lucky Licorice] [Fearsome Fudge] [Lucky Licorice] 
+[Empty] [Empty] [Empty] 
+[Empty] [Empty] [Empty] 
+---------------------------------------------------
